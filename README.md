@@ -1,3 +1,3 @@
-# labs
+# Labs
 
-- backend: 100
+- Backend: 2 hours
