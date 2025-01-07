@@ -1,3 +1,3 @@
 # Labs
 
-- Backend: 2.5 hours
+- Backend: 3 hours
