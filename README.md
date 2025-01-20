@@ -1,4 +1,4 @@
 # Labs
 
-- Backend: 10 hours
-- git&github: 2 hours
+- Backend: 11 hours
+- git&github: 3 hours
